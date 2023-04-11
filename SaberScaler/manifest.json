@@ -1,0 +1,13 @@
+﻿{
+  "$schema": "https://raw.githubusercontent.com/bsmg/BSIPA-MetadataFileSchema/master/Schema.json",
+  "id": "SaberScaler",
+  "name": "SaberScaler",
+  "author": "Nuggo",
+  "version": "1.0.0",
+  "description": "Adds scaling options for the sabers model'",
+  "gameVersion": "1.29.1",
+  "dependsOn": {
+    "BSIPA": "^4.2.2",
+    "BeatSaberMarkupLanguage":  "^1.6.10"
+  }
+}
